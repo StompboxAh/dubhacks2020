@@ -1,0 +1,14 @@
+/*
+ Styles for indekusu.html
+*/
+body {
+  text-align: center;
+  color: #5C5D67;
+  background-color: #D199B6;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
