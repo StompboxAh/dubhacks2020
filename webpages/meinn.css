@@ -6,11 +6,14 @@ body {
   color: #5C5D67;
   background-color: #D199B6;
   font-family: 'Balsamiq Sans', cursive;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 div {
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 button {
   border-radius: 1em;
