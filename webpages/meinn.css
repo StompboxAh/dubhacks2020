@@ -24,6 +24,11 @@ button {
   margin-left:40%;
 }
 
+.matchbtn {
+  border-width: 2px;
+  border-style: outset;
+}
+
 .card {
   margin-left: 30%;
   margin-right: 30%
