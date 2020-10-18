@@ -10,11 +10,20 @@ body {
   margin-left: 20%;
 }
 
-div {
+div, .btn {
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
 button {
   border-radius: 1em;
+}
+
+.btn {
+  width:30%;
+}
+
+.card {
+  margin-left: 30%;
+  margin-right: 30%
 }
